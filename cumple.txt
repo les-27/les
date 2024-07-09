@@ -1,0 +1,71 @@
+<html>
+<head> 
+<title>Feliz Cumpleaños</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<center>
+<table border=10 width="975" height="580">
+<tr>
+<th colspan=7"><p class="text-jul">JULIO 2024</p></th></font>
+<tr>
+<th> <p class="text-dia"> Lunes </th></p>
+<th> <p class="text-dia"> Martes </th></p>
+<th> <p class="text-dia"> Miercoles </th></p>
+<th> <p class="text-dia"> Jueves </th></p>
+<th> <p class="text-dia"> Viernes </th></p>
+<th> <p class="text-dia"> Sabado </th></p>
+<th> <p class="text-dia"> Domingo </th></p>
+</tr>
+
+<tr>
+<td> <p class="text-num"> 1 </td></p>
+<td> <p class="text-num"> 2 </td></p>
+<td> <p class="text-num"> 3 </td></p>
+<td> <p class="text-num"> 4 </td></p>
+<td> <p class="text-num"> 5 </td></p>
+<td> <p class="text-num"> 6 </td></p>
+<td> <p class="text-num"> 7 </td></p>
+</tr>
+
+<tr>
+<td> <p class="text-num"> 8 </td></p>
+<td> <p class="text-num"> 9 </td></p>
+<td> <p class="text-num"> 10 </td></p>
+<td> <p class="text-num"> 11 </td></p>
+<td> <p class="text-num"> 12 </td></p>
+<td> <p class="text-num"> 13 </td></p>
+<td> <p class="text-num"> 14 <a href> </a></td></p>
+</tr>
+
+<tr>
+<td> <p class="text-num"> 15 </td></p>
+<td> <p class="text-num"> 16 </td></p>
+<td> <p class="text-num"> 17 </td></p>
+<td> <p class="text-num"> 18 </td></p>
+<td> <p class="text-num"> 19 </td></p>
+<td> <p class="text-num"> 20 </td></p>
+<td> <p class="text-num"> 21 </td></p>
+</tr>
+
+<tr>
+<td> <p class="text-num"> 22 </td></p>
+<td> <p class="text-num"> 23 </td></p>
+<td> <p class="text-num"> 24 </td></p>
+<td> <p class="text-num"> 25 </td></p>
+<td> <p class="text-num"> 26 </td></p>
+<td> <p class="text-num"> 27 </td></p>
+<td> <p class="text-num"> 28 </td></p>
+</tr>
+
+<tr>
+<td> <p class="text-num"> 29 </td></p>
+<td> <p class="text-num"> 30 </td></p>
+<td> <p class="text-num"> 31 </td></p>
+</tr>
+
+</table>
+</center>
+</body>
+</html>

@@ -1,0 +1,25 @@
+body {
+            background-image: url('https://i.pinimg.com/originals/87/89/5e/87895ebc9ca9e9748484e3bd143d28ab.gif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat; /* Esto evita que la imagen se repita */
+        }
+
+.text-jul {
+font-size: 40px;
+font-family: 'Times New Roman', serif;
+font-style: italic;
+color: white;
+}
+
+.text-dia {
+font-size: 30px;
+font-family: 'Times New Roman', serif;
+color: white;
+}
+
+.text-num{
+font-size: 25px;
+font-family: 'Times New Roman', serif;
+color: white;
+}
